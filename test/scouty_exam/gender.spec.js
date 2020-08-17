@@ -1,4 +1,4 @@
-import { Male, Female } from "../src/gender/index"
+import { Male, Female } from "@/scouty_exam/gender/index"
 
 describe("性別オブジェクトを作成", () => {
   describe("男性を作成", () => {

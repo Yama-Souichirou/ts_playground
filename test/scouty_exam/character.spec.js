@@ -1,5 +1,5 @@
-import { Character } from '../src/character.ts'
-import { Male, Female } from '../src/gender/index'
+import { Character } from '@/scouty_exam/character.ts'
+import { Male, Female } from '@/scouty_exam/gender/index'
 
 describe("Charactor", () => {
   describe("create a male charactor", () => {
